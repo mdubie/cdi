@@ -1,0 +1,25 @@
+{
+  "name": "cdi",
+  "homepage": "https://github.com/mdubie/cdi",
+  "authors": [
+    "Matt Dubie <mbdubie@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "COPYRIGHT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "underscore": "~1.6.0",
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2",
+    "d3": "3.5.17"
+  }
+}
